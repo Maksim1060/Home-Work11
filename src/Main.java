@@ -62,7 +62,7 @@ public class Main {
         } else if (dieiveryDistance <= 100) {
             return 3;
         } else {
-            return - 1;
+            return -1;
         }
         printDeliveryInfo(3);
 
